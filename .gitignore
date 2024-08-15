@@ -1,0 +1,6 @@
+lib/**
+include/**
+bin/**
+.venv/**
+__pycache__/**
+**.cfg
